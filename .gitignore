@@ -1,0 +1,11 @@
+*.o
+*.obj
+*.exe
+*.out
+oop
+a.out
+.vscode/
+.idea/
+.DS_Store
+balance.txt
+library.txt

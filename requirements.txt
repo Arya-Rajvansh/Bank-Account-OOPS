@@ -1,0 +1,4 @@
+Compiler: g++ (GCC) 7 or newer, or any C++11 compatible compiler
+Standard: C++11 or newer
+External libraries: none (uses only the C++ standard library)
+Build: g++ main.cpp -o oop
